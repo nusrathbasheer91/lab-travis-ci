@@ -1,7 +1,7 @@
 # nyu-travis-ci
 
 [![Build Status](https://travis-ci.org/nusrathbasheer91/lab-travis-ci.svg?branch=master)](https://travis-ci.org/nusrathbasheer91/lab-travis-ci)
-[![Codecov](https://img.shields.io/codecov/c/github/nusrathbasheer91/lab-travis-ci.svg)]()
+[![codecov](https://codecov.io/gh/nusrathbasheer91/lab-travis-ci/branch/master/graph/badge.svg)](https://codecov.io/gh/nusrathbasheer91/lab-travis-ci)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
     
